@@ -1,0 +1,23 @@
+table, th, td {
+    border:1px solid black;
+  }
+
+h6 {
+    color:azure;
+}
+
+img {
+    width: 150px;
+    height: 150px;   
+    float:right;
+}
+
+p {
+    color:aqua;
+}
+
+
+.btn:hover {
+    background-color: aliceblue;
+    color:aqua;
+}
